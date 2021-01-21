@@ -1,7 +1,10 @@
 import React from "react";
 
+// components
+import Alarm from "./Alarm";
+
 const App = () => {
-  return <div>Something Here</div>;
+  return <Alarm />;
 };
 
 export default App;
